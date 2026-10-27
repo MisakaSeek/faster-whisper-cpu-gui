@@ -5,6 +5,9 @@
 建议使用8代I5及以上CPU，内存大于等于16G.
 请将模型放入models文件夹。
 
+Releases 中已打包exe，点击运行，需自行下载模型。将模型放入modesl 文件夹，并命名faster-whisper-small 或faster-whisper-medium
+
+
 模型下载地址 
 faster-whisper-small 效果差，快
 https://huggingface.co/Systran/faster-whisper-small
