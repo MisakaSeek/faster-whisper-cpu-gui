@@ -7,6 +7,9 @@
 
 Releases 中已打包exe，点击运行，需自行下载模型。将模型放入modesl 文件夹，并命名faster-whisper-small 或faster-whisper-medium
 
+<img width="587" height="139" alt="1" src="https://github.com/user-attachments/assets/2ed3962d-ecf8-4140-9766-7065eb4a22b0" />
+<img width="764" height="147" alt="3" src="https://github.com/user-attachments/assets/8155d7c5-fbf7-41e7-a47f-0a7fce34ad7b" />
+<img width="223" height="130" alt="2" src="https://github.com/user-attachments/assets/aa45b3b1-df40-4beb-b8ab-ed107f4888c6" />
 
 模型下载地址 
 faster-whisper-small 效果差，快
