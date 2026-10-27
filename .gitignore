@@ -1,0 +1,30 @@
+models/
+
+# Python 虚拟环境
+.venv/
+venv/
+env/
+
+# PyInstaller 打包产物
+build/
+dist/
+*.spec.bak
+
+# Python 缓存与编译文件
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# 本地配置（含你上次选择的模型记录，因人而异）
+config.ini
+
+# 编辑器/系统临时文件
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# 日志与临时输出
+*.log
+*.tmpw
