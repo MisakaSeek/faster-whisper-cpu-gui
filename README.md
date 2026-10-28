@@ -4,6 +4,7 @@
 
 建议使用8代I5及以上CPU，内存大于等于16G.
 请将模型放入models文件夹。
+<img width="642" height="632" alt="9eea8248-62ec-47bc-b32c-c14061141389" src="https://github.com/user-attachments/assets/e17c1186-22e2-4364-bd7d-423aa6e05ba7" />
 
 Releases 中已打包exe，点击运行，需自行下载模型。将模型放入modesl 文件夹，并命名faster-whisper-small 或faster-whisper-medium
 
